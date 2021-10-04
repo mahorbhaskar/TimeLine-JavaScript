@@ -1,3 +1,2 @@
 # TimeLine-JavaScript
-
-![](demo/ss.jpg)
+![](demo/ss.png)
